@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prasang-Biyani
+- 👋 Hi, I’m @prasangg
 - 👀 I’m interested in Economics, Psychology, Philosophy, Gaming, Reading, History.
 - 🌱 I’m currently learning Machine Learning & Data Science from Scaler
 - 💞️ I’m looking to collaborate on ML/DL/AI projects
